@@ -1,0 +1,13 @@
+Package: df.Var
+Title: What the Package Does (One Line, Title Case)
+Version: 0.1.0
+Authors@R: 
+    person("Tom", "Tang", , "tom.tang@stat.ubc.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package calculates the variance of each column in a dataframe.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: dplyr, tidyverse, devtools, testthat, datateachr
+Config/testthat/edition: 3
