@@ -1,8 +1,8 @@
 Package: df.Var
-Title: What the Package Does (One Line, Title Case)
+Title: Dataframe Variance
 Version: 0.1.0
 Authors@R: 
-    person("Tom", "Tang", , "tom.tang@stat.ubc.ca", role = c("aut", "cre")
+    person("Tom", "Tang", email="tom.tang@stat.ubc.ca", role = c("aut", "cre"))
 Description: This package calculates the variance of each column in a dataframe.
 License: MIT + file LICENSE
 Encoding: UTF-8
